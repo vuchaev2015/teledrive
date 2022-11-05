@@ -13,6 +13,8 @@ ARG DB_PASSWORD
 ARG API_JWT_SECRET
 ARG FILES_JWT_SECRET
 
+ARG DATABASE_URL
+
 COPY yarn.lock .
 COPY package.json .
 COPY api/package.json api/package.json
