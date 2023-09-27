@@ -1,7 +1,7 @@
 {
   "name": "teledrive",
   "version": "2.5.5",
-  "repository": "git@github.com:vuchaev2015/TeleDrive.git",
+  "repository": "git@github.com:vuchaev2015/teledrive.git",
   "author": "M Gilang Januar <mgilangjanuar@teledriveapp.com>",
   "license": "MIT",
   "private": true,
